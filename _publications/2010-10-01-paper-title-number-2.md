@@ -10,6 +10,6 @@ citation: 'Asinari, Sarah. (2020). &quot;Case Syncretism in Russian Numeral Cons
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](https://www.qmul.ac.uk/sllf/media/sllf-new/department-of-linguistics/documents/43)-Asinari_OPAL---BA-dissertation.pdf)
+[Download paper here] (https://bit.ly/31ftEHL)
 
 Recommended citation: Asinari, Sarah. (2020). &quot;Case Syncretism in Russian Numeral Constructions.&quot; <i>Queen Mary's Occasional Papers Advancing Linguistics (OPALs)</i>. 43.
