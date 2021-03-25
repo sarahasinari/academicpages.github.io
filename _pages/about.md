@@ -1,5 +1,5 @@
 ---
-permalink: https://sarahasinari.github.io/
+permalink: 
 title: "About Me"
 excerpt: "I’m Sarah Asinari (she/her), I’m a 3rd year PhD student in Linguistics at the University of Connecticut. I’m from the greater Scranton, PA region (yes, the same one from The Office).  I graduated from Queen Mary University of London with a First Class Joint Honours degree in Russian and Linguistics. 
 
